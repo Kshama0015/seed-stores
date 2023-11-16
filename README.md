@@ -1,1 +1,1 @@
-# seed-stores
+# seed-store
